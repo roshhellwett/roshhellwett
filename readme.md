@@ -32,7 +32,7 @@ struct Rosh_Hellwett
 /**
  * @file    profile.h
  * @author  Rosh Hellwett
- * @brief   Core user specifications
+ * @brief   Core user specification
  */
 
 struct Developer {
