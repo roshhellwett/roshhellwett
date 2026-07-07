@@ -1,52 +1,80 @@
-# Rosh Hellwett
+<div align="center">
 
-System programmer and open-source creator. I write software across systems programming, web development, and automation - from C++ billing engines to Telegram bot infrastructure.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,32,44,83,100&height=200&section=header&text=ROSH%20HELLWETT&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33C4FF&center=true&vCenter=true&width=435&lines=SYSTEM+EXPLORER+%7C+LINUX+ENTHUSIAST;C%2B%2B+WIZARD+%7C+BACKEND+DEV;CODE+%E2%80%A2+COMPILE+%E2%80%A2+DEPLOY" alt="Typing SVG" />
+</a>
 
-**Profile**
+<br/>
 
-- Building at the intersection of systems programming and practical tooling
-- Focus on clean architecture, memory safety, and reliable automation
-- Projects span CLI tools, web applications, and Linux system utilities
+> ❝ *Exploring the depths of system-level programming and the vastness of the web.* ❞
 
-**Projects**
+</div>
 
-| Project | Description |
-|---------|-------------|
-| [Project Sentinel](https://github.com/roshhellwett/projectsentinel) | AI-powered Indian news aggregator with automated pipeline |
-| [Project Venice](https://github.com/roshhellwett/projectvenice) | Layered Telegram bot for verified news automation |
-| [Project Monolith](https://github.com/roshhellwett/projectmonolith) | Multi-tenant SaaS Telegram bot platform |
-| [Project ZeroGap Vote](https://github.com/roshhellwett/projectzerogapvote) | Blueprint for modernizing India's electronic voting system |
-| [Project PayNix](https://github.com/roshhellwett/projectpaynix) | Lightweight C++ billing software |
-| [Project BillForge](https://github.com/roshhellwett/projectbillforge) | Indian vendors billing web application |
-| [Project DropIt](https://github.com/roshhellwett/projectdropit) | Peer-to-peer encrypted file transfer CLI |
-| [Project Egnima](https://github.com/roshhellwett/projectegnima) | Modular C/C++ project and experimentation |
-| [Project PulseWire](https://github.com/roshhellwett/projectpulsewire) | PulseWire and EasyEffects presets for Linux |
-| [Project DevPulse](https://github.com/roshhellwett/projectdevpulse) | Real-time terminal dashboard for developers |
-| [Project DevSetup](https://github.com/roshhellwett/projectdevsetup) | Beginner-friendly coding environment setup tool |
-| [Project Cortex](https://github.com/roshhellwett/projectcortex) | Lightweight AI-powered productivity assistant |
-| [Project ReadMeGen](https://github.com/roshhellwett/projectreadmegen) | Auto-generate README files from your codebase |
-| [Project Grub](https://github.com/roshhellwett/projectgrub) | Linux GRUB theme collection |
-| [Project KittyThemes](https://github.com/roshhellwett/projectkittythemes) | Color themes for Kitty terminal |
-| [Project LogicHands](https://github.com/roshhellwett/projectlogichands) | Interactive Rock-Paper-Scissors game |
-| [Project NumSuko](https://github.com/roshhellwett/projectnumsuko) | Interactive number guessing game |
-| [Project WinActivation](https://github.com/roshhellwett/projectwinactivation) | Windows utility for admin privilege management |
-| [Project VSCodeTemplates](https://github.com/roshhellwett/projectvscodetemplates) | Ready-made VS Code setups for developers |
-| [Zenith Pages](https://github.com/roshhellwett/zenithpages) | Developer utility registry and showcase |
-| [Zenith Open Source Projects](https://github.com/roshhellwett/zenithopensourceprojects) | Portfolio hub for all projects |
+<br/>
 
 ---
 
-**Technologies**
+```c
+struct Rosh_Hellwett
+{
+    .code  = "Polyglot Solutions Engineer",
+    .focus = "System Internals & Memory Mgmt",
+    .os    = "Linux / Terminal Native",
+    .motto = "Build to learn, break to understand."
+};
+```
 
-Core: C, C++, Python, Java
-Web: HTML, CSS, JavaScript, TypeScript, React, Node.js
-Data: MySQL, PostgreSQL, MongoDB
-Systems: Linux, Git, Docker, VS Code
 
+
+```c
+/**
+ * @file    profile.h
+ * @author  Rosh Hellwett
+ * @brief   Core user specification
+ */
+
+struct Developer {
+    char  *name    = "Rosh Hellwett";
+    char  *role    = "System Explorer & Polyglot";
+    char  *os      = "Linux (Arch/Debian)";
+    char  *editor  = "Vim / VS Code";
+    
+    // Core Philosophy
+    void daily_routine() {
+        while (alive) {
+            code();
+            break_things(); // to understand them
+            fix_things();
+        }
+    }
+};
+```
 ---
 
-<p align="center">
-  <a href="https://github.com/roshhellwett">github.com/roshhellwett</a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>CORE & SYSTEMS</b></td>
+      <td align="center" width="33%"><b>WEB TECHNOLOGIES</b></td>
+      <td align="center" width="33%"><b>DATA & TOOLS</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongo,linux,git&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,32,44,83,100&height=100&section=footer" width="100%"/>
+
+</div>
